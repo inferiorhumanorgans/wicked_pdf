@@ -192,6 +192,7 @@ class WickedPdf
                                     :print_media_type,
                                     :disable_smart_shrinking,
                                     :use_xserver,
+                                    :force_xhtml,
                                     :no_background], "", :boolean)
       end
     end
